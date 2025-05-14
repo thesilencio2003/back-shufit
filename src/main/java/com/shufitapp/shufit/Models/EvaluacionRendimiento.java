@@ -1,4 +1,5 @@
-package com.shufitapp.shufit.controller;
+package com.shufitapp.shufit.Models
+;
 
 import java.time.LocalDateTime;
 

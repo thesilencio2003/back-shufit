@@ -8,7 +8,7 @@ import org.modelmapper.ModelMapper;
 import org.springframework.stereotype.Service;
 
 import com.shufitapp.shufit.Models.Cliente;
-import com.shufitapp.shufit.controller.EvaluacionRendimiento;
+import com.shufitapp.shufit.Models.EvaluacionRendimiento;
 import com.shufitapp.shufit.dto.EvaluacionRendimientoDTO;
 import com.shufitapp.shufit.repository.ClienteRepository;
 import com.shufitapp.shufit.repository.EvaluacionRendimientoRepository;
